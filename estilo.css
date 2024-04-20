@@ -1,0 +1,14 @@
+.ref{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid;
+    height: 97vh;
+}
+.tst{
+    border: solid red;
+    width: 85vh;
+    height: 85vh;
+}
+
+    
